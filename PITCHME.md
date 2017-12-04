@@ -9,20 +9,30 @@
 * Práctica cómo evalúo mi servicio
 * Ejercicio "Desarrollando un servicio"
 * Herramientas nivel de servicio
-* Herramientas de disponibilidad
-* Práctica diseñando un servicio
+* Ejercicio "Diseñando un servicio"
 
 ### Parte 2: Conocimiento y cambios
 
-* Práctica cambios a mi servicio
+* Control de cambios
 * Ejercicio "Midiendo un servicio"
+* Herramientas de disponibilidad
 * Herramientas de administración de conocimiento
-* Introducción a Dev-Ops 
+
+### Parte 3 : Introducción a Dev-Ops 
 
 ---
 
+# Parte 1: Nivel de servicio
+
++++
+
 ## Cómo evalúo mi servicio
 [Encuesta]()
+
++++
+
+## Análisis de la encuesta
+gdocs*
 
 +++
 
@@ -47,8 +57,56 @@
 ¿Qué es?
 ¿Cómo lo tengo reflejado en mi trabajo?
 [Ejemplo](http://www.slatemplate.com/)
+Elaboremos dos diferentes SLA [Drive](https://drive.google.com)
+gdocs*
 
 +++
 
+¿Cómo actualmente lo administro?
+¿Dónde inicia el servicio?
+¿Cuál es el límite inicial de mi servicio?
+[Tickets](http://www.clickonf5.org/google/use-gmail-support-ticket-management-system/40480)
+Otros...
 
+---
+
+# Parte 2: Conocimiento y cambios
+
++++
+
+## Control de cambios
+¿Cuándo consideramos que hay un cambio en nuestro servicio?
+¿Cómo lo vemos reflejado?
+¿Se pueden evitar los cambios?
+Archivo genérico para control de cambios y discusión gdocs*
+
++++
+
+## Ejercicio "Midiendo un servicio"
+
++++
+
+Conclusiones del ejercicio
+
++++
+
+## Midiendo un servicio
+* Tiempos mínimos máximos promedios
+* ... mttr mañana...
+* Gráficas
+
++++
+
+## Herramientas para la disponibilidad
+ No se pueden evitar los cambios
+### Pero queremos saber cuándo pasan
+[Sideex](http://sideex.org/)
+
++++
+
+## Herramientas para la administración del conocimiento
+[Blogs - VBlogs](https://www.blogger.com)
+[Wikis](http://www.wikidot.com/)
+
+---
 
