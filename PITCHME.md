@@ -42,7 +42,12 @@ gdocs*
 * Agregar Pros
 * Agregar Contras
 * Agregar Imágenes
+* Ejemplos o Tecnologías o por qué usarlos
 * Enviar servicio a agustin.rumayor@gmail.com
+
++++
+
+[Ejercicio 1](https://docs.google.com/presentation/d/e/2PACX-1vTKu2wNLBBX2DxSpYM9SxlbkzDr7X-XKZjusI75-5QbCRzuJN8abH6jOP2TaK8Y0QOSv-Gtahb8T7PZ/pub?start=true&loop=false&delayms=60000&slide=id.p)
 
 +++
 
@@ -54,19 +59,27 @@ gdocs*
 
 +++
 
-¿Qué es?
-¿Cómo lo tengo reflejado en mi trabajo?
-[Ejemplo](http://www.slatemplate.com/)
-Elaboremos dos diferentes SLA [Drive](https://drive.google.com)
+* ¿Qué es?
+* ¿Cómo lo tengo reflejado en mi trabajo?
+* [Ejemplo](http://www.slatemplate.com/)
+* Elaboremos dos diferentes SLA [Drive](https://drive.google.com)
 gdocs*
 
 +++
 
-¿Cómo actualmente lo administro?
-¿Dónde inicia el servicio?
-¿Cuál es el límite inicial de mi servicio?
-[Tickets](http://www.clickonf5.org/google/use-gmail-support-ticket-management-system/40480)
-Otros...
+* ¿Cómo actualmente lo administro?
+* ¿Dónde inicia el servicio?
+* ¿Cuál es el límite inicial de mi servicio?
+* [Tickets](http://www.clickonf5.org/google/use-gmail-support-ticket-management-system/40480)
+* Otros helpdesk, trello...
+
++++
+
+## Diseñando un servicio
+
++++
+
+## Conclusiones del ejercicio
 
 ---
 
@@ -75,18 +88,19 @@ Otros...
 +++
 
 ## Control de cambios
-¿Cuándo consideramos que hay un cambio en nuestro servicio?
-¿Cómo lo vemos reflejado?
-¿Se pueden evitar los cambios?
-Archivo genérico para control de cambios y discusión gdocs*
+* ¿Cuándo consideramos que hay un cambio en nuestro servicio?
+* ¿Cómo lo vemos reflejado?
+* ¿Se pueden evitar los cambios?
+* Crear archivo genérico para control de cambios y discusión gdocs*
 
 +++
 
-## Ejercicio "Midiendo un servicio"
+## Ejercicio "Midiendo un servicio"*
+[Ejercicio 2](https://docs.google.com/presentation/d/e/2PACX-1vQpO40vAeeRax3sl2idLGr2VTGi7n4fAm-O-jZxMVevSwtJGs6bXVXlgSIN2zRl-doLJPC3RdmDELOA/pub?start=true&loop=false&delayms=60000)
 
 +++
 
-Conclusiones del ejercicio
+## Conclusiones del ejercicio
 
 +++
 
