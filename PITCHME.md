@@ -27,7 +27,7 @@
 +++
 
 ## Cómo evalúo mi servicio
-[Encuesta]()
+[Encuesta](https://docs.google.com/forms/d/e/1FAIpQLScJJcCmY2LvK5BUgbc0gju0WS1t_utMj53hE4PCFOe-MkjrmQ/viewform?usp=sf_link)
 
 +++
 
@@ -123,4 +123,6 @@ gdocs*
 [Wikis](http://www.wikidot.com/)
 
 ---
+
+# Parte 3 : Introducción a Dev-Ops
 
